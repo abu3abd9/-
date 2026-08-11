@@ -1,0 +1,11 @@
+{
+  "name": "اجتماع",
+  "description": "منصة اجتماعات فيديو احترافية مع تسجيل تلقائي عالي الدقة وحفظ خفي ومحمي للمضيف فقط.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
